@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates how to create a popup modal box using HTML, CSS, and JavaScript. The modal popup includes smooth animations using CSS transitions. This is a great project for understanding how to build interactive UI elements that enhance the user experience.
+Popup modal box using HTML, CSS, and JavaScript. The modal popup includes smooth animations using CSS transitions. 
 
 ## Features
 
